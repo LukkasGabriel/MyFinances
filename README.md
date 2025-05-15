@@ -1,50 +1,104 @@
-# Personal Financial Dashboard in Power BI
+# Personal Finance Dashboard – Power BI
 
-This is a personal project created in Power BI with the goal of organizing and visualizing my financial data more effectively. It directly connects to Google Sheets, pulling information about **income, expenses, and investments**, and presents this data in intuitive dashboards with interactive charts and filters.
+This is an interactive **Power BI dashboard** designed to help **anyone manage their personal finances** more efficiently. It connects seamlessly with **Google Sheets**, making data input simple and accessible from anywhere.
 
-> ⚠️ This repository is in its first version and **is still under development**. It is private for now until it is more polished for public sharing.
+## 🔧 How It Works
 
-## 📊 Key Features
+All financial data is entered in Google Sheets and automatically synced with Power BI. The dashboard is built with a **modern and user-friendly design**, using **interactive icons**, **buttons**, and a clean layout that helps users easily track and understand their financial habits.
 
-- **Overview Dashboard**: An overview with key indicators:
-  - Total revenue
-  - Expenses
-  - Net income
+## 📄 Dashboard Pages
+
+The dashboard is divided into **four essential pages**:
+
+### 1. 📊 Overview
+
+The **Overview** page summarizes all the key financial data from the other pages in a single view. It includes:
+
+- A daily chart of **profits and expenses** throughout the week
+- **Average earnings**
+- Total invested
+- **Key Performance Indicators (KPIs)**:
+
+  - Total saved
+  - Total expenses
+  - Total earnings
   - Credit card spending
-  - Money saved
-  - Investments made
-- **Income Page**: Detailed analysis of earnings by category, source, and period.
-- **Expenses Page**: View of expenses with filters by type, amount, and date.
-- **Investments Page**: Tracking and monitoring of investments made.
 
-## 🛠 Technologies Used
-
-- **Power BI Desktop**
-- **Google Sheets** (used as the data source)
-- **Power Query** for ETL (data processing)
-
-## 🚧 Project Status
-
-- ✅ Connection with Google Sheets
-- ✅ First functional dashboards
-- ❌ Final design
-- ❌ Performance optimizations
-- ❌ Full documentation
-
-## 💡 Objective
-
-The project arose from the need to have a "personal financial tracker" that helps me better monitor my financial life, understand where my money is going, what is being invested, and what can be improved.
-
-## 📁 Future Structure
-
-The repository will be organized to include:
-- `.pbix` file (Power BI)
-- Folders with sample dummy data
-- Screenshots or demo videos
-- Instructions on how to use (coming soon)
-
-## 🤝 Contribution
-
-This is a personal and private project at the moment. In the future, I may release it as an open template for use and adaptation.
+A complete snapshot of your financial life in one place.
 
 ---
+
+### 2. 💰 Earnings
+
+Track your income with detailed insights:
+
+- KPIs:
+  - Total earnings
+  - Highest income
+  - Lowest income
+  - Number of income transactions
+- Charts:
+  - Most profitable income sources
+  - Average income
+  - Income evolution by month
+
+---
+
+### 3. 💸 Expenses
+
+Analyze your spending with clarity:
+
+- KPIs:
+  - Total expenses
+  - Highest expense
+  - Total credit card spending
+  - Number of expenses
+- Charts:
+  - Spending by category
+  - Comparison of fixed vs. variable expenses
+  - Payment method usage (credit, debit, PIX, cash)
+  - Expense evolution by month
+
+---
+
+### 4. 📈 Investments
+
+Get a clear picture of where your money is growing:
+
+- KPIs:
+  - Total saved
+  - Total invested
+  - Investment profits
+  - Accumulated balance
+- Charts:
+  - Distribution of investments by type
+  - Bank account balances
+  - Withdrawals and asset sales
+
+---
+
+## 🎯 Key Features
+
+- Data automatically pulled from **Google Sheets**
+- Fully interactive dashboard with **month and year filters**
+- Designed with **modern visuals** for a better user experience
+- Ideal for **daily financial management**
+
+---
+
+## 🚀 Getting Started
+
+To use this dashboard:
+
+1. Connect your Google Sheets with Power BI.
+2. Update your financial data regularly in the spreadsheet.
+3. Refresh your Power BI report to see the updated dashboard.
+
+---
+
+## 📬 Feedback
+
+If you have suggestions or would like to collaborate, feel free to reach out!
+
+---
+
