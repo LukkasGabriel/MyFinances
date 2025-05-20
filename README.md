@@ -1,104 +1,123 @@
-# Personal Finance Dashboard – Power BI
+# 💼 Personal Finance Dashboard – Power BI + Google Sheets
 
-This is an interactive **Power BI dashboard** designed to help **anyone manage their personal finances** more efficiently. It connects seamlessly with **Google Sheets**, making data input simple and accessible from anywhere.
+This is a dynamic and fully interactive **Personal Finance Dashboard**, built entirely in **Power BI** and connected to **Google Sheets** for real-time data updates. It was created to give a complete, organized, and visual representation of your **income**, **expenses**, and **investments**, helping you stay on top of your finances effortlessly.
 
-## 🔧 How It Works
+---
 
-All financial data is entered in Google Sheets and automatically synced with Power BI. The dashboard is built with a **modern and user-friendly design**, using **interactive icons**, **buttons**, and a clean layout that helps users easily track and understand their financial habits.
+## 🔗 Data Source
 
-## 📄 Dashboard Pages
+- 📄 **Google Sheets** (acts as the central database)
+- 🔁 Integrated with Power BI through web connection
+- 🧩 Organized into four key sheets:
+  - `Overview`
+  - `Earnings`
+  - `Expenses`
+  - `Investments`
 
-The dashboard is divided into **four essential pages**:
+---
+
+## 📂 Dashboard Sections
 
 ### 1. 📊 Overview
 
-The **Overview** page summarizes all the key financial data from the other pages in a single view. It includes:
+Your all-in-one control panel. This page consolidates the most important metrics to give you a quick, comprehensive snapshot of your finances:
 
-- A daily chart of **profits and expenses** throughout the week
-- **Average earnings**
-- Total invested
-- **Key Performance Indicators (KPIs)**:
-
-  - Total saved
+- Daily trend of **earnings vs expenses**
+- **Average income**
+- **Total invested**
+- **Key KPIs**:
+  - Net savings
+  - Total income
   - Total expenses
-  - Total earnings
-  - Credit card spending
+  - Credit card usage
 
-A complete snapshot of your financial life in one place.
+Includes intuitive icons, responsive visuals, and a clean layout for easier navigation.
 
 ---
 
 ### 2. 💰 Earnings
 
-Track your income with detailed insights:
+Monitor all your income sources in detail:
 
-- KPIs:
+- **KPIs**:
   - Total earnings
-  - Highest income
+  - Highest single income
   - Lowest income
-  - Number of income transactions
-- Charts:
-  - Most profitable income sources
-  - Average income
-  - Income evolution by month
+  - Number of entries
+- **Visuals**:
+  - Income per category/source
+  - Monthly income evolution
+  - Average income per period
+
+Ideal for identifying your most consistent or passive income streams.
 
 ---
 
 ### 3. 💸 Expenses
 
-Analyze your spending with clarity:
+Keep your spending under control and analyze it like a pro:
 
-- KPIs:
-  - Total expenses
-  - Highest expense
-  - Total credit card spending
+- **KPIs**:
+  - Total spending
+  - Biggest single expense
+  - Total spent via credit card
   - Number of expenses
-- Charts:
-  - Spending by category
-  - Comparison of fixed vs. variable expenses
-  - Payment method usage (credit, debit, PIX, cash)
-  - Expense evolution by month
+- **Charts**:
+  - Breakdown by spending category
+  - Fixed vs. variable expense comparison
+  - Payment methods used (PIX, credit, debit, cash)
+  - Monthly spending trend
+
+Great for identifying wasteful spending and optimizing your budget.
 
 ---
 
 ### 4. 📈 Investments
 
-Get a clear picture of where your money is growing:
+Track where your money is growing (or not):
 
-- KPIs:
-  - Total saved
+- **KPIs**:
   - Total invested
-  - Investment profits
+  - Total saved
+  - Total earnings from investments
   - Accumulated balance
-- Charts:
-  - Distribution of investments by type
-  - Bank account balances
-  - Withdrawals and asset sales
+- **Visuals**:
+  - Distribution by investment type (apps, events, managed accounts, etc.)
+  - Bank and wallet balances
+  - Withdrawals and profits
+
+
+Perfect for keeping an eye on your assets and managing risk.
 
 ---
 
-## 🎯 Key Features
+## 🎨 Design & Usability
 
-- Data automatically pulled from **Google Sheets**
-- Fully interactive dashboard with **month and year filters**
-- Designed with **modern visuals** for a better user experience
-- Ideal for **daily financial management**
-
----
-
-## 🚀 Getting Started
-
-To use this dashboard:
-
-1. Connect your Google Sheets with Power BI.
-2. Update your financial data regularly in the spreadsheet.
-3. Refresh your Power BI report to see the updated dashboard.
+- Built with **modern visuals and layout**
+- Interactive filters for **month and year**
+- Iconography and tooltips for user-friendly navigation
+- Optimized for both **desktop and mobile** Power BI views
 
 ---
 
-## 📬 Feedback
+## 🚀 How to Use
 
-If you have suggestions or would like to collaborate, feel free to reach out!
+1. Connect your Google Sheets to Power BI (via web link).
+2. Enter your financial data directly into the spreadsheets.
+3. Refresh the dashboard manually or schedule updates via Power BI Service.
+4. Start making smarter financial decisions with real-time insights.
 
 ---
 
+## 🔒 Privacy & Flexibility
+
+- Your financial data stays in **your** cloud (Google Sheets).
+- Can be adapted to different currencies, goals, or custom categories.
+
+---
+
+## 📬 Contact
+
+Created by **Lucas** – passionate about personal finance, data visualization, and using tech to make life simpler.
+
+Questions or feedback? Let’s connect!
