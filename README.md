@@ -3,6 +3,13 @@
 This is a dynamic and fully interactive **Personal Finance Dashboard**, built entirely in **Power BI** and connected to **Google Sheets** for real-time data updates. It was created to give a complete, organized, and visual representation of your **income**, **expenses**, and **investments**, helping you stay on top of your finances effortlessly.
 
 ---
+## 📸 Preview
+
+
+
+https://github.com/user-attachments/assets/bad39ac5-69f7-4921-b26e-b9060bb42afc
+
+
 
 ## 🔗 Data Source
 
